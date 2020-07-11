@@ -1,7 +1,7 @@
-#Demonstrate the power of kotlin
-##WIP
+# Demonstrate the power of kotlin
+## WIP
 
-##TODO:
+## TODO:
 - [ ] data classes
 - [ ] named parameters
 - [ ] companion object
